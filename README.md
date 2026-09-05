@@ -57,9 +57,9 @@ Building modern, responsive and production-ready web applications with clean cod
 
 ### Projects
 
-You'll find my work in the Popular repositories section above — each one has its own README with more detail. I build business sites, e-commerce, real estate platforms, portfolios, dashboards, admin panels, and custom React/Next.js applications.
+You'll find my work in the Popular repositories section above. A few of them:
 
-20+ projects shipped, with a focus on clean architecture and reusable components.
+[smile-care](https://github.com/ashraf-sobhe/smile-care) · [Inventory-Management](https://github.com/ashraf-sobhe/Inventory-Management) · [Tia-candle](https://github.com/ashraf-sobhe/Tia-candle)
 
 <br>
 
